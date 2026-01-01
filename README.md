@@ -1,0 +1,1 @@
+A real-time driver drowsiness detection system that monitors eye-blink patterns using a webcam. If prolonged eye closure is detected, the system triggers an audio alert siren to wake the driver and prevent accidents.
